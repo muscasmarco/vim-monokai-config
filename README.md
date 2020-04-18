@@ -15,7 +15,7 @@ What it will do once installed:
 # How to apply this configuration to vim:
 
 - Copy the file `.vimrc` to `/home/${USER}/`
-- Copy the folder `.vim` to `/home/${USER}/`
+- Copy the folder `.vim/` to `/home/${USER}/`
 
 - Ignore the remaining files in this repo
 
