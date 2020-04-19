@@ -9,7 +9,7 @@ Compatible with the linux file system.
 What it will do once installed: 
 
 - Set the colorscheme to monokai
-- Setup an tab width of 4
+- Setup a tab width of 4
 - Substituting each inserted tab with 4 spaces
 
 # How to apply this configuration to vim:
